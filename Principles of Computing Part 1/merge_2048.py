@@ -29,3 +29,9 @@ def merge(line):
 
 
 # print(merge([8, 0, 8]))
+# print(merge([2, 0, 2, 4]))
+# print(merge([0, 0, 2, 2]))
+# print(merge([2, 2, 0, 0]))
+# print(merge([2, 2, 2, 2, 2]))
+# print(merge([8, 16, 16, 8]))
+
