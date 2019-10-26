@@ -1,0 +1,3 @@
+1. i get to know how to resolve the pylint error too many branches,
+	make a function which does the if/elif/else job.
+
